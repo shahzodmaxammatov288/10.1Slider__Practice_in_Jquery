@@ -1,0 +1,28 @@
+/*Extra Small*/
+@media screen and (max-width: 576px){
+	
+}
+/*Small*/
+@media screen and (max-width: 767px) and (min-width: 576px){
+
+}
+/*Medium*/
+@media screen and (max-width: 991px) and (min-width: 768px){
+
+}
+/*Large*/
+@media screen and (max-width: 1199px) and (min-width: 992px){
+	
+}
+/*Extra Large*/
+@media screen (min-width: 1200px){
+
+}
+
+
+@media (max-width: 320px) {
+	
+}
+@media (max-width: 280px) {
+
+}
